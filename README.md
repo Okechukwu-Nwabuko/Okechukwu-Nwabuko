@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Okechukwu-Nwabuko
-- 👀 I’m interested in Business Intelligence, maintaining Data, mining Data from 
+- 👀 I’m interested in Business Intelligence, Data Analysis maintaining Data, mining Data from 
 - Primary & Secondary sources,then recognizing said Data in a format that can be easily
 - read by, either Human or Machine & also visualize said Data
 - 🌱 I’m skilled in Excel, SQL, Power BI, Tableau & Python Programming
